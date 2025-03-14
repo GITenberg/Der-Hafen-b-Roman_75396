@@ -1,0 +1,29 @@
+_repo: Der-Hafen-b-Roman_75396
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rabe, Else
+    gutenberg_agent_id: '57980'
+    url: http://www.gutenberg.org/2009/agents/57980
+description: ''
+gutenberg_issued: '2025-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75396'
+  lccn: '28002495'
+language: de
+pgterms:marc905: 20230613092226rabe
+pgterms:marc906: '1927'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bVolksverband der Bücherfreunde, Wegweiser-Verlag
+  G. m. b. H., $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Der Hafen : $b Roman'
+url: http://www.gutenberg.org/ebooks/75396
