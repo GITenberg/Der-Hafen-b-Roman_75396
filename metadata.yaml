@@ -1,11 +1,16 @@
 _repo: Der-Hafen-b-Roman_75396
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75396-h/images/cover.jpg
 creator:
   author:
     agent_name: Rabe, Else
     gutenberg_agent_id: '57980'
     url: http://www.gutenberg.org/2009/agents/57980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75396#Der-Hafen-b-Roman
 gutenberg_issued: '2025-02-17'
 gutenberg_type: Text
 identifiers:
